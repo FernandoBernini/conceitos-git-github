@@ -49,3 +49,11 @@ branch -M master
 ```bash
 Git push -u origin master
 ```
+Para baixar as altercaoes que estao apenas no github
+```bash
+git pull
+```
+Para baixar as altercaoes que estao apenas no github
+```bash
+git push
+```
